@@ -1,0 +1,2 @@
+mysql connect php
+https://codes-sources.commentcamarche.net/faq/10789-connecter-une-application-android-a-une-base-de-donnees
